@@ -5,6 +5,7 @@
 
 🎮 DESCRIÇÃO
 ============
+REMOVA README.md E README_DST_MOD.txt
 Este mod para Don't Starve Together implementa um sistema revolucionário que 
 divide automaticamente o processamento do mundo entre diferentes servidores 
 baseado na localização dos jogadores e plataforma utilizada.
